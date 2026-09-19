@@ -1,0 +1,6 @@
+{
+  "name": "KELAS XI-TKJ",
+  "description": "Aplikasi website kelas XI-TKJ (Teknik Komputer & Jaringan) dengan portal admin real-time, 22 siswa, jadwal pelajaran, kas kelas, galeri foto, dan pemutar musik Spotify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
